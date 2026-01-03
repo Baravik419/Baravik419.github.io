@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Untagged on Hello Friend NG</title>
+    <title>Untagged on 1.2. Darbas su Hugo ir Git</title>
     <link>http://localhost:1313/tags/untagged/</link>
-    <description>Recent content in Untagged on Hello Friend NG</description>
+    <description>Recent content in Untagged on 1.2. Darbas su Hugo ir Git</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sat, 03 Jan 2026 16:17:26 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Puslapissunuotraukaircitata</title>
+      <title>Puslapis su nuotrauka ir citata</title>
       <link>http://localhost:1313/posts/puslapissunuotraukaircitata/</link>
       <pubDate>Sat, 03 Jan 2026 16:17:26 +0200</pubDate>
       <guid>http://localhost:1313/posts/puslapissunuotraukaircitata/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;Franklin.jpg&#34; alt=&#34;Paveikslėlis&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Tingėjimas kiekvieną darbą daro sunkų, o meilė darbui – lengvą. – B. Franklinas.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Franklin.jpg&#34; alt=&#34;Paveikslėlis&#34;&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Tingėjimas kiekvieną darbą daro sunkų, o meilė darbui – lengvą. – B. Franklinas.&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     <item>
       <title>Naujaspuslapis</title>
